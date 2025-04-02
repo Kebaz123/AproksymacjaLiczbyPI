@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "aproksymacja_liczby_PI_klasa/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/aproksymacja_liczby_PI_klasa.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/aproksymacja_liczby_PI_klasa.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "aproksymacja_liczby_PI_klasa/1.0.0": {
+      "type": "project",
+      "path": "../aproksymacja_liczby_PI_klasa/aproksymacja_liczby_PI_klasa.csproj",
+      "msbuildProject": "../aproksymacja_liczby_PI_klasa/aproksymacja_liczby_PI_klasa.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "aproksymacja_liczby_PI_klasa >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kebaz\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kebaz\\OneDrive\\Pulpit\\Zadanie_Praktyks\\aproksymacja_liczby_PI_konsola\\aproksymacja_liczby_PI_klasa\\aproksymacja_liczby_PI_klasa.csproj": {
+              "projectPath": "C:\\Users\\kebaz\\OneDrive\\Pulpit\\Zadanie_Praktyks\\aproksymacja_liczby_PI_konsola\\aproksymacja_liczby_PI_klasa\\aproksymacja_liczby_PI_klasa.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

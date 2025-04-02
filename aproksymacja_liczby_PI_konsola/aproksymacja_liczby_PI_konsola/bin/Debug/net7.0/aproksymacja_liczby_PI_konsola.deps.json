@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "aproksymacja_liczby_PI_konsola/1.0.0": {
+        "dependencies": {
+          "aproksymacja_liczby_PI_klasa": "1.0.0"
+        },
         "runtime": {
           "aproksymacja_liczby_PI_konsola.dll": {}
+        }
+      },
+      "aproksymacja_liczby_PI_klasa/1.0.0": {
+        "runtime": {
+          "aproksymacja_liczby_PI_klasa.dll": {}
         }
       }
     }
   },
   "libraries": {
     "aproksymacja_liczby_PI_konsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "aproksymacja_liczby_PI_klasa/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

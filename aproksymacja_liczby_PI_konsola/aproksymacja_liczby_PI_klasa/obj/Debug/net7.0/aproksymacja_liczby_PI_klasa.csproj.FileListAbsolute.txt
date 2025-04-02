@@ -1,0 +1,12 @@
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\bin\Debug\net7.0\aproksymacja_liczby_PI_klasa.deps.json
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\bin\Debug\net7.0\aproksymacja_liczby_PI_klasa.dll
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\bin\Debug\net7.0\aproksymacja_liczby_PI_klasa.pdb
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\aproksymacja_liczby_PI_klasa.csproj.AssemblyReference.cache
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\aproksymacja_liczby_PI_klasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\aproksymacja_liczby_PI_klasa.AssemblyInfoInputs.cache
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\aproksymacja_liczby_PI_klasa.AssemblyInfo.cs
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\aproksymacja_liczby_PI_klasa.csproj.CoreCompileInputs.cache
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\aproksymacja_liczby_PI_klasa.dll
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\refint\aproksymacja_liczby_PI_klasa.dll
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\aproksymacja_liczby_PI_klasa.pdb
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_klasa\obj\Debug\net7.0\ref\aproksymacja_liczby_PI_klasa.dll

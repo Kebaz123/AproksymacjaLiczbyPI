@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\aproksymacja_liczby_PI_klasa\aproksymacja_liczby_PI_klasa.csproj" />
+  </ItemGroup>
+
 </Project>

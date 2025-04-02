@@ -13,3 +13,6 @@ C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\a
 C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_konsola\obj\Debug\net7.0\aproksymacja_liczby_PI_konsola.pdb
 C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_konsola\obj\Debug\net7.0\aproksymacja_liczby_PI_konsola.genruntimeconfig.cache
 C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_konsola\obj\Debug\net7.0\ref\aproksymacja_liczby_PI_konsola.dll
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_konsola\bin\Debug\net7.0\aproksymacja_liczby_PI_klasa.dll
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_konsola\bin\Debug\net7.0\aproksymacja_liczby_PI_klasa.pdb
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_konsola\obj\Debug\net7.0\aproksymacja_liczby_PI_konsola.csproj.CopyComplete
