@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aproksymacja_liczby_PI_konsola", "aproksymacja_liczby_PI_konsola\aproksymacja_liczby_PI_konsola.csproj", "{94319CC8-5E17-440C-8FA5-8D9E6A4CC239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aproksymacja_liczby_PI_klasa", "aproksymacja_liczby_PI_klasa\aproksymacja_liczby_PI_klasa.csproj", "{327ED108-7021-447E-8BD7-9718F37F270F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94319CC8-5E17-440C-8FA5-8D9E6A4CC239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94319CC8-5E17-440C-8FA5-8D9E6A4CC239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94319CC8-5E17-440C-8FA5-8D9E6A4CC239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94319CC8-5E17-440C-8FA5-8D9E6A4CC239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327ED108-7021-447E-8BD7-9718F37F270F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327ED108-7021-447E-8BD7-9718F37F270F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327ED108-7021-447E-8BD7-9718F37F270F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327ED108-7021-447E-8BD7-9718F37F270F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3266CA-25C5-4638-A5F8-679CDD5AB8FB}
+	EndGlobalSection
+EndGlobal

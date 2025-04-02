@@ -1,0 +1,12 @@
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\bin\Debug\net7.0\aproksymacja_liczby_PI.deps.json
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\bin\Debug\net7.0\aproksymacja_liczby_PI.dll
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\bin\Debug\net7.0\aproksymacja_liczby_PI.pdb
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\aproksymacja_liczby_PI.csproj.AssemblyReference.cache
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\aproksymacja_liczby_PI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\aproksymacja_liczby_PI.AssemblyInfoInputs.cache
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\aproksymacja_liczby_PI.AssemblyInfo.cs
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\aproksymacja_liczby_PI.csproj.CoreCompileInputs.cache
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\aproksymacja_liczby_PI.dll
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\refint\aproksymacja_liczby_PI.dll
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\aproksymacja_liczby_PI.pdb
+C:\Users\kebaz\OneDrive\Pulpit\Zadanie_Praktyks\aproksymacja_liczby_PI\aproksymacja_liczby_PI\obj\Debug\net7.0\ref\aproksymacja_liczby_PI.dll
